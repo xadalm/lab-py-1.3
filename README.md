@@ -61,5 +61,5 @@
 
 2. Запустить тесты:
    ```bash
-   pytest tests/
+   python -m pytest tests\
    ```
